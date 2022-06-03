@@ -1,0 +1,28 @@
+body{
+    margin: 115px auto;
+    
+    background-image: linear-gradient(1deg,#2c32d2c7,#f9ffb7);
+
+    width: 248px;
+    height: 207px;
+}
+input{
+    width: 243px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+.tela1{
+    width: 243px;
+    height: 21px;
+    background-color: aliceblue;
+}
+#tela{
+    text-align: center;
+}
+fieldset{
+    background-color: #b3cade;
+    border-radius: 20px;
+    box-shadow: 3px 11px 20px black;
+}
